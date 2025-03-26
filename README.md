@@ -9,4 +9,5 @@ Realizar un **análisis exploratorio estructurado (EDA)** sobre conjuntos de dat
 ✔️ Entender su estructura y calidad.  
 ✔️ Identificar tendencias, outliers y relaciones entre variables.  
 ✔️ Preprocesar datos (limpieza, transformación, normalización).  
+✔️ Responder preguntas clave.  
 ✔️ Generar visualizaciones clave para toma de decisiones.  
